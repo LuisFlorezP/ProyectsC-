@@ -1,0 +1,15 @@
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\bin\Debug\net6.0\TallerPOO.exe
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\bin\Debug\net6.0\TallerPOO.deps.json
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\bin\Debug\net6.0\TallerPOO.runtimeconfig.json
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\bin\Debug\net6.0\TallerPOO.dll
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\bin\Debug\net6.0\TallerPOO.pdb
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\obj\Debug\net6.0\TallerPOO.csproj.AssemblyReference.cache
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\obj\Debug\net6.0\TallerPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\obj\Debug\net6.0\TallerPOO.AssemblyInfoInputs.cache
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\obj\Debug\net6.0\TallerPOO.AssemblyInfo.cs
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\obj\Debug\net6.0\TallerPOO.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\obj\Debug\net6.0\TallerPOO.dll
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\obj\Debug\net6.0\refint\TallerPOO.dll
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\obj\Debug\net6.0\TallerPOO.pdb
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\obj\Debug\net6.0\TallerPOO.genruntimeconfig.cache
+C:\Users\luisf\Documentos\VSC\C#\TallerPOO\TallerPOO\obj\Debug\net6.0\ref\TallerPOO.dll
