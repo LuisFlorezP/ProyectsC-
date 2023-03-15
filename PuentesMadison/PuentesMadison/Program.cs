@@ -17,9 +17,9 @@ namespace PuentesMadison
                 Console.Write("Enter the bridge: ");
                 bridge.Structure = Console.ReadLine();
 
+                bridge.ProveBridge();
 
-
-                Console.WriteLine(bridge.Structure);
+                Console.WriteLine($"Bridge: {bridge.Structure} is valid.");
             }
 			catch (Exception ex)
 			{
