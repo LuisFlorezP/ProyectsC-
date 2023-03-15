@@ -14,7 +14,7 @@ namespace TheViga
             {
                 Viga viga = new Viga();
 
-                Console.Write("Ingrese la viga: ");
+                Console.Write("Enter the beam: ");
                 viga.Weight = Console.ReadLine();
 
                 viga.Endurance = viga.AnalizeBase();
