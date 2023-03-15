@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisf\\Documentos\\VSC\\C#\\TallerPOO\\TallerPOO\\TallerPOO.csproj": {}
+    "C:\\Users\\luisf\\GitHub\\ProyectsC-Sharp\\TallerPOO\\TallerPOO\\TallerPOO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisf\\Documentos\\VSC\\C#\\TallerPOO\\TallerPOO\\TallerPOO.csproj": {
+    "C:\\Users\\luisf\\GitHub\\ProyectsC-Sharp\\TallerPOO\\TallerPOO\\TallerPOO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisf\\Documentos\\VSC\\C#\\TallerPOO\\TallerPOO\\TallerPOO.csproj",
+        "projectUniqueName": "C:\\Users\\luisf\\GitHub\\ProyectsC-Sharp\\TallerPOO\\TallerPOO\\TallerPOO.csproj",
         "projectName": "TallerPOO",
-        "projectPath": "C:\\Users\\luisf\\Documentos\\VSC\\C#\\TallerPOO\\TallerPOO\\TallerPOO.csproj",
+        "projectPath": "C:\\Users\\luisf\\GitHub\\ProyectsC-Sharp\\TallerPOO\\TallerPOO\\TallerPOO.csproj",
         "packagesPath": "C:\\Users\\luisf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisf\\Documentos\\VSC\\C#\\TallerPOO\\TallerPOO\\obj\\",
+        "outputPath": "C:\\Users\\luisf\\GitHub\\ProyectsC-Sharp\\TallerPOO\\TallerPOO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
