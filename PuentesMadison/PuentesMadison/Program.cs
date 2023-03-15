@@ -14,16 +14,16 @@ namespace PuentesMadison
 			{
                 Bridge bridge = new Bridge();
 
-                Console.Write("Ingrese la viga: ");
-                viga.Weight = Console.ReadLine();
+                Console.Write("Enter the bridge: ");
+                bridge.Structure = Console.ReadLine();
 
-                viga.Endurance = viga.AnalizeBase();
-                viga.VerifyWeight();
+
+
+                Console.WriteLine(bridge.Structure);
             }
 			catch (Exception ex)
 			{
 				Console.WriteLine(ex.Message);
-				throw;
             }
             Console.Write("Press a key to end... ");
             Console.ReadKey();
